@@ -41,6 +41,11 @@ h5 {
     font-family: monospace;
 }
 
+video {
+    display: block;
+    margin: auto;
+}
+
 img {
     width: 700px;
     margin: auto;
@@ -61,6 +66,7 @@ aside {
     box-shadow: inset 5px 0 5px -5px #29627e;
     font-style: italic;
     color: #29627e;
+    height: 80em;
 }
 
 textarea {
